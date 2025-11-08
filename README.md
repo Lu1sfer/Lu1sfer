@@ -1,7 +1,6 @@
 # 👋 ¡Hola! Soy Luis Mendoza
 
-🎓 **Estudiante de Ingeniera Eléctrica en la Universidad de Costa Rica (UCR)** 
-
+🎓 **Estudiante de Ingeniería Eléctrica en la Universidad de Costa Rica (UCR)** 
 
 ---
 
@@ -14,7 +13,7 @@
 ---
 
 ## 🌱 Sobre mí
-- 💬 Me encanta aprender compartiendo lo que sé.  
-- 🎸 Aficionado a la música y los proyectos de automatización.  
-- 📖 Siempre explorando nuevas formas de conectar teoría y práctica.
+- 💬 Aprendiz de todo experto de nada  
+- 🎼 Aficionado a la música
+- ⚽ Amante del futbol 
 
